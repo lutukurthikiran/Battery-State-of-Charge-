@@ -1,0 +1,1 @@
+https://github.com/sautee/battery-state-of-charge-estimation/blob/main/app/examples/Pan_10degC.csv

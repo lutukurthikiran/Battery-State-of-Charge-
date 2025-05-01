@@ -1,0 +1,8 @@
+from below directory
+
+C:\Users\Admin\AppData\Local\Programs\Python\Python37\Lib\site-packages\skopt
+
+open init.py file and then replace . with _ in below line
+
+in below line replace . with _ and then save and run code
+from importlib.metadata import version, PackageNotFoundError
